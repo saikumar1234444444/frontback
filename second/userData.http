@@ -1,0 +1,11 @@
+POST http://localhost:5000/submit/
+Content-Type:application/json 
+
+{
+  "name": "sai"
+  
+}
+
+###
+
+GET http://localhost:5000/users/
